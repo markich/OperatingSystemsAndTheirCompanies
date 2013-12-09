@@ -1,0 +1,2158 @@
+{
+    "operating_systems": [
+                  {
+                  "name": "Abassi",
+                  "version": "-",
+                  "company": "Code Time Technologies Inc."
+                  },
+                  {
+                  "name": "AirOS",
+                  "version": "-",
+                  "company": "Ubiquiti Networks, Inc."
+                  },
+                  {
+                  "name": "aLinux",
+                  "version": "-",
+                  "company": "Jay L. Klepacs"
+                  },
+                  {
+                  "name": "AlliedWare",
+                  "version": "-",
+                  "company": "Allied Telesis"
+                  },
+                  {
+                  "name": "Alpine Linux",
+                  "version": "-",
+                  "company": "Alpine Linux Development Team"
+                  },
+                  {
+                  "name": "Amiga Workbench",
+                  "version": "-",
+                  "company": "Commodore International"
+                  },
+                  {
+                  "name": "AmigaOS",
+                  "version": "4.1",
+                  "company": "Hyperion Entertainment CVBA"
+                  },
+                  {
+                  "name": "AMX RTOS",
+                  "version": "-",
+                  "company": "KADAK Products Ltd."
+                  },
+                  {
+                  "name": "Android",
+                  "version": "-",
+                  "company": "Google Inc."
+                  },
+                  {
+                  "name": "Annvix",
+                  "version": "-",
+                  "company": "Annvix development team and Danen Consulting Services"
+                  },
+                  {
+                  "name": "Arch Linux",
+                  "version": "-",
+                  "company": "Judd Vinet and Aaron Griffin"
+                  },
+                  {
+                  "name": "ArchBang",
+                  "version": "-",
+                  "company": "Stan McLaren"
+                  },
+                  {
+                  "name": "AROS Research Operating System",
+                  "version": "-",
+                  "company": "The AROS Development Team"
+                  },
+                  {
+                  "name": "ARTOS",
+                  "version": "-",
+                  "company": "Locamation B.V."
+                  },
+                  {
+                  "name": "ARX",
+                  "version": "-",
+                  "company": "Acorn Computers Ltd"
+                  },
+                  {
+                  "name": "AstraNOS",
+                  "version": "-",
+                  "company": "Varol Okan"
+                  },
+                  {
+                  "name": "Atari OS 4.1",
+                  "version": "-",
+                  "company": "Atari Interactive Inc."
+                  },
+                  {
+                  "name": "Athene OS",
+                  "version": "-",
+                  "company": "Rocklyte Systems"
+                  },
+                  {
+                  "name": "Atomthreads",
+                  "version": "-",
+                  "company": "Kelvin Lawson"
+                  },
+                  {
+                  "name": "AuthServ/Zilux",
+                  "version": "-",
+                  "company": "AuthTech"
+                  },
+                  {
+                  "name": "AVIX",
+                  "version": "-",
+                  "company": "AVIX-RT"
+                  },
+                  {
+                  "name": "Backtrack Linux",
+                  "version": "-",
+                  "company": "Offensive Security"
+                  },
+                  {
+                  "name": "BADA OS",
+                  "version": "-",
+                  "company": "Samsung Electronics"
+                  },
+                  {
+                  "name": "BeDesk",
+                  "version": "-",
+                  "company": "Oh!STUDIO Media Solutions"
+                  },
+                  {
+                  "name": "BeOS",
+                  "version": "-",
+                  "company": "Be Inc."
+                  },
+                  {
+                  "name": "BeRTOS",
+                  "version": "-",
+                  "company": "Develer S.R.L."
+                  },
+                  {
+                  "name": "BlackBerry OS",
+                  "version": "-",
+                  "company": "Research In Motion Ltd"
+                  },
+                  {
+                  "name": "BlackBerry 10",
+                  "version": "-",
+                  "company": "BlackBerry Ltd."
+                  },
+                  {
+                  "name": "Bodhi Linux",
+                  "version": "-",
+                  "company": "Bodhi Linux"
+                  },
+                  {
+                  "name": "Bharat Operating System Solutions (BOSS) GNU/Linux",
+                  "version": "-",
+                  "company": "National Resource Centre for Free/Open Source Software of India"
+                  },
+                  {
+                  "name": "BREW OS",
+                  "version": "-",
+                  "company": "Qualcomm"
+                  },
+                  {
+                  "name": "brickOS",
+                  "version": "-",
+                  "company": "Markus Noga"
+                  },
+                  {
+                  "name": "BRTOS",
+                  "version": "-",
+                  "company": "BRTOS TEAM"
+                  },
+                  {
+                  "name": "Cambridge CAP computer",
+                  "version": "-",
+                  "company": "University of Cambridge Computer Laboratory"
+                  },
+                  {
+                  "name": "CapROS",
+                  "version": "-",
+                  "company": "Strawberry Development Group"
+                  },
+                  {
+                  "name": "Catalyst Operating System (CatOS)",
+                  "version": "-",
+                  "company": "Crescendo Communications Inc."
+                  },
+                  {
+                  "name": "Community Enterprise Operating System (CentOS)",
+                  "version": "-",
+                  "company": "The CentOS Project"
+                  },
+                  {
+                  "name": "Chakra",
+                  "version": "-",
+                  "company": "The Chakra Developers"
+                  },
+                  {
+                  "name": "ChibiOS/RT",
+                  "version": "-",
+                  "company": "Giovanni Di Sirio"
+                  },
+                  {
+                  "name": "Choices",
+                  "version": "-",
+                  "company": "University of Illinois at Urbana-Champaign"
+                  },
+                  {
+                  "name": "ChorusOS",
+                  "version": "",
+                  "company": "Sun Microsystems Inc."
+                  },
+                  {
+                  "name": "Chromium OS",
+                  "version": "-",
+                  "company": "Google Inc."
+                  },
+                  {
+                  "name": "ChronOS",
+                  "version": "-",
+                  "company": "Systems Software Research Group at Virginia Tech"
+                  },
+                  {
+                  "name": "Cisco IOS",
+                  "version": "-",
+                  "company": "Cisco Systems Inc."
+                  },
+                  {
+                  "name": "CMX RTOS",
+                  "version": "-",
+                  "company": "CMX Systems Inc."
+                  },
+                  {
+                  "name": "cmyOS",
+                  "version": "-",
+                  "company": "cmyOS"
+                  },
+                  {
+                  "name": "CoActionOS",
+                  "version": "-",
+                  "company": "CoActionOS Inc."
+                  },
+                  {
+                  "name": "cocoOS",
+                  "version": "-",
+                  "company": "cocoOS"
+                  },
+                  {
+                  "name": "Contiki",
+                  "version": "-",
+                  "company": "The Contiki Community"
+                  },
+                  {
+                  "name": "CooCox CoOS",
+                  "version": "-",
+                  "company": "CooCox"
+                  },
+                  {
+                  "name": "CP/M",
+                  "version": "-",
+                  "company": "Digital Research Inc."
+                  },
+                  {
+                  "name": "CrunchBang Linux",
+                  "version": "-",
+                  "company": "Philip Newborough"
+                  },
+                  {
+                  "name": "Crux",
+                  "version": "-",
+                  "company": "Per Lidén and CRUX Linux community"
+                  },
+                  {
+                  "name": "Cylon Linux",
+                  "version": "-",
+                  "company": "Cylon Linux Project"
+                  },
+                  {
+                  "name": "Damn Vulnerable Linux",
+                  "version": "-",
+                  "company": "DVL Development Team"
+                  },
+                  {
+                  "name": "DD-WRT",
+                  "version": "-",
+                  "company": "BrainSlayer"
+                  },
+                  {
+                  "name": "Debian Linux",
+                  "version": "-",
+                  "company": "Software in the Public Interest Inc."
+                  },
+                  {
+                  "name": "Dialogovaya Edinaya Mobilnaya Operatsionnaya Sistema (DEMOS)",
+                  "version": "-",
+                  "company": "Kurchatov Institute of Atomic Energy"
+                  },
+                  {
+                  "name": "Delaware Environmental Observing System (DEOS)",
+                  "version": "-",
+                  "company": "Department of Geography at the University of Delaware"
+                  },
+                  {
+                  "name": "DesktopTwo",
+                  "version": "-",
+                  "company": "Sapotek"
+                  },
+                  {
+                  "name": "DexOS",
+                  "version": "-",
+                  "company": "Craig Bamford"
+                  },
+                  {
+                  "name": "DioneOS",
+                  "version": "-",
+                  "company": "EleSoftRom Embedded Systems"
+                  },
+                  {
+                  "name": "DIP DOS",
+                  "version": "-",
+                  "company": "Atari Corporation"
+                  },
+                  {
+                  "name": "DoxBoard",
+                  "version": "-",
+                  "company": "-"
+                  },
+                  {
+                  "name": "DragonFly BSD",
+                  "version": "-",
+                  "company": "The DragonFly BSD Project"
+                  },
+                  {
+                  "name": "DreamLinux",
+                  "version": "-",
+                  "company": "The DreamLinux Project"
+                  },
+                  {
+                  "name": "DrRtos",
+                  "version": "-",
+                  "company": "DrRtos Development Team"
+                  },
+                  {
+                  "name": "DSL",
+                  "version": "-",
+                  "company": "John Andrews et alumni"
+                  },
+                  {
+                  "name": "DSP/BIOS",
+                  "version": "-",
+                  "company": "Texas Instruments Incorporated"
+                  },
+                  {
+                  "name": "DSPnano RTOS",
+                  "version": "-",
+                  "company": "Rowebots Inc."
+                  },
+                  {
+                  "name": "DuinOS",
+                  "version": "-",
+                  "company": "RobotGroup"
+                  },
+                  {
+                  "name": "Easy Peasy",
+                  "version": "-",
+                  "company": "EasyPeasy"
+                  },
+                  {
+                  "name": "eCos",
+                  "version": "-",
+                  "company": "eCos community and Free Software Foundation"
+                  },
+                  {
+                  "name": "eCosPro",
+                  "version": "-",
+                  "company": "eCosCentric Limited"
+                  },
+                  {
+                  "name": "Edubuntu",
+                  "version": "-",
+                  "company": "Canonical Limited"
+                  },
+                  {
+                  "name": "ekkoBSD",
+                  "version": "-",
+                  "company": "Rick Collette"
+                  },
+                  {
+                  "name": "Elementary OS",
+                  "version": "-",
+                  "company": "elementary"
+                  },
+                  {
+                  "name": "Elnis AVIO",
+                  "version": "-",
+                  "company": "-"
+                  },
+                  {
+                  "name": "Embkernel",
+                  "version": "-",
+                  "company": "ravaz"
+                  },
+                  {
+                  "name": "embOS",
+                  "version": "-",
+                  "company": "SEGGER Microcontroller Systems LLC."
+                  },
+                  {
+                  "name": "Embox",
+                  "version": "-",
+                  "company": "Hardware Engineering Department of Lanit-Tercom Inc. and Saint-Petersburg State University"
+                  },
+                  {
+                  "name": "EnGarde Secure Linux",
+                  "version": "-",
+                  "company": "Guardian Digital Inc."
+                  },
+                  {
+                  "name": "ERIKA Enterprise",
+                  "version": "-",
+                  "company": "Evidence, Cobra, Magneti Marelli, EnSilica, FAAM, aprilia and racing"
+                  },
+                  {
+                  "name": "EROS",
+                  "version": "-",
+                  "company": "The EROS Team"
+                  },
+                  {
+                  "name": "es",
+                  "version": "-",
+                  "company": "Nintendo Inc. and Google Inc."
+                  },
+                  {
+                  "name": "ExtremeXOS",
+                  "version": "-",
+                  "company": "Extreme Networks"
+                  },
+                  {
+                  "name": "eyeOS",
+                  "version": "-",
+                  "company": "eyeOS S.L."
+                  },
+                  {
+                  "name": "Familiar Linux",
+                  "version": "-",
+                  "company": "Alexander Guy"
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "15",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "16",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "17",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "18",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "19",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Fedora",
+                  "version": "20",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Femto OS",
+                  "version": "-",
+                  "company": "Ruud Vlaming"
+                  },
+                  {
+                  "name": "Fenestela OS",
+                  "version": "-",
+                  "company": "Websilog SARL"
+                  },
+                  {
+                  "name": "Fiasco.OC",
+                  "version": "-",
+                  "company": "l4-hackers"
+                  },
+                  {
+                  "name": "Firefox OS",
+                  "version": "-",
+                  "company": "The Mozilla Foundation"
+                  },
+                  {
+                  "name": "Foresight Linux",
+                  "version": "-",
+                  "company": "Foresight Community"
+                  },
+                  {
+                  "name": "FreeBSD",
+                  "version": "-",
+                  "company": "The FreeBSD Project"
+                  },
+                  {
+                  "name": "FreeDOS",
+                  "version": "-",
+                  "company": "The FreeDOS Project"
+                  },
+                  {
+                  "name": "FreeNAS",
+                  "version": "-",
+                  "company": "iXsystems Inc."
+                  },
+                  {
+                  "name": "FreeOSEK",
+                  "version": "-",
+                  "company": "FreeOSEK Project"
+                  },
+                  {
+                  "name": "FreeRTOS",
+                  "version": "-",
+                  "company": "Real Time Engineers Limited"
+                  },
+                  {
+                  "name": "FreeVMS",
+                  "version": "-",
+                  "company": "FreeVMS"
+                  },
+                  {
+                  "name": "Frenzy",
+                  "version": "-",
+                  "company": "Sergei Mozhayskiy"
+                  },
+                  {
+                  "name": "FreeSBIE",
+                  "version": "-",
+                  "company": "The FreeSBIE Developers"
+                  },
+                  {
+                  "name": "Frugalware",
+                  "version": "-",
+                  "company": "The Frugalware Developer Team"
+                  },
+                  {
+                  "name": "FTOS or Force10 Operating System",
+                  "version": "-",
+                  "company": "Dell Inc."
+                  },
+                  {
+                  "name": "Fuduntu",
+                  "version": "-",
+                  "company": "Fuduntu Team"
+                  },
+                  {
+                  "name": "FunkOS",
+                  "version": "-",
+                  "company": "Funkenstein Software Consulting"
+                  },
+                  {
+                  "name": "Fusion OS",
+                  "version": "-",
+                  "company": "Fusion Operating System project team"
+                  },
+                  {
+                  "name": "Fusion RTOS",
+                  "version": "-",
+                  "company": "Unicoi Systems"
+                  },
+                  {
+                  "name": "G.ho.st",
+                  "version": "-",
+                  "company": "Ghost Inc."
+                  },
+                  {
+                  "name": "GCOE X",
+                  "version": "-",
+                  "company": "Vista Enterprises"
+                  },
+                  {
+                  "name": "Gentoo Linux",
+                  "version": "-",
+                  "company": "Gentoo Foundation Inc."
+                  },
+                  {
+                  "name": "GEOS",
+                  "version": "-",
+                  "company": "Berkeley Softworks"
+                  },
+                  {
+                  "name": "Breadbox Ensemble (PC/GEOS)",
+                  "version": "-",
+                  "company": "GeoWorks Corporation"
+                  },
+                  {
+                  "name": "GhostBSD",
+                  "version": "-",
+                  "company": "The GhostBSD Project"
+                  },
+                  {
+                  "name": "Glide OS",
+                  "version": "-",
+                  "company": "TransMedia Corporation"
+                  },
+                  {
+                  "name": "gNewSense GNU/Linux",
+                  "version": "-",
+                  "company": "Free Software Foundation Inc."
+                  },
+                  {
+                  "name": "GNU/HURD",
+                  "version": "-",
+                  "company": "Free Software Foundation Inc."
+                  },
+                  {
+                  "name": "GoboLinux",
+                  "version": "-",
+                  "company": "GoboLinux Development Team"
+                  },
+                  {
+                  "name": "Chrome OS",
+                  "version": "-",
+                  "company": "Google Inc."
+                  },
+                  {
+                  "name": "goowy",
+                  "version": "-",
+                  "company": "Goowy Media"
+                  },
+                  {
+                  "name": "Haiku OS",
+                  "version": "-",
+                  "company": "Haiku Project"
+                  },
+                  {
+                  "name": "Hardened Gentoo",
+                  "version": "-",
+                  "company": "Gentoo Foundation Inc."
+                  },
+                  {
+                  "name": "Hardened Linux",
+                  "version": "-",
+                  "company": "The Hardened Linux Project"
+                  },
+                  {
+                  "name": "HeartOS",
+                  "version": "-",
+                  "company": "DDC-I Inc."
+                  },
+                  {
+                  "name": "Helium OS",
+                  "version": "-",
+                  "company": "The Helium Project"
+                  },
+                  {
+                  "name": "HP-UX",
+                  "version": "-",
+                  "company": "Hewlett-Packard Company"
+                  },
+                  {
+                  "name": "HP-UX 11i",
+                  "version": "-",
+                  "company": "Hewlett-Packard Company"
+                  },
+                  {
+                  "name": "HT-11",
+                  "version": "-",
+                  "company": "Heathkit"
+                  },
+                  {
+                  "name": "Hybridthreads",
+                  "version": "-",
+                  "company": "Computer Systems Design Laboratory at the University of Arkansas"
+                  },
+                  {
+                  "name": "Hybryde Linux",
+                  "version": "-",
+                  "company": "Hybryde"
+                  },
+                  {
+                  "name": "HYDRA OS",
+                  "version": "-",
+                  "company": "Carnegie-Mellon University"
+                  },
+                  {
+                  "name": "IBM AIX",
+                  "version": "-",
+                  "company": "International Business Machines Corporation (IBM)"
+                  },
+                  {
+                  "name": "illumos",
+                  "version": "-",
+                  "company": "The illumos Community"
+                  },
+                  {
+                  "name": "Immunix",
+                  "version": "-",
+                  "company": "Immunix Inc."
+                  },
+                  {
+                  "name": "Inferno",
+                  "version": "-",
+                  "company": "Bell Labs and Vita Nuova Holdings"
+                  },
+                  {
+                  "name": "INTEGRITY RTOS",
+                  "version": "-",
+                  "company": "Green Hills Software"
+                  },
+                  {
+                  "name": "IntervalZero RTX",
+                  "version": "-",
+                  "company": "IntervalZero"
+                  },
+                  {
+                  "name": "ioRTOS",
+                  "version": "-",
+                  "company": "Iode Inc."
+                  },
+                  {
+                  "name": "iOS",
+                  "version": "6",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "iOS",
+                  "version": "7",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "IOS-XR",
+                  "version": "-",
+                  "company": "Cisco Systems Inc."
+                  },
+                  {
+                  "name": "iPodLinux",
+                  "version": "-",
+                  "company": "iPodLinux Development Team"
+                  },
+                  {
+                  "name": "IprediaOS",
+                  "version": "-",
+                  "company": "Ipredia Org"
+                  },
+                  {
+                  "name": "iriver clix",
+                  "version": "-",
+                  "company": "iriver"
+                  },
+                  {
+                  "name": "IRIX",
+                  "version": "-",
+                  "company": "Silicon Graphics Inc. (SGI)"
+                  },
+                  {
+                  "name": "IronWare",
+                  "version": "-",
+                  "company": "Brocade"
+                  },
+                  {
+                  "name": "iRTOS",
+                  "version": "-",
+                  "company": "Dmitriy A. Cherepanov"
+                  },
+                  {
+                  "name": "ISIX",
+                  "version": "-",
+                  "company": "T. 'LiquidSnake' Navarro-Ristow"
+                  },
+                  {
+                  "name": "ITRON",
+                  "version": "-",
+                  "company": "ITRON Project"
+                  },
+                  {
+                  "name": "JavaOS",
+                  "version": "-",
+                  "company": "Sun Microsystems Inc."
+                  },
+                  {
+                  "name": "Java New Operating System Design Effort (JNode)",
+                  "version": "-",
+                  "company": "JNode.org"
+                  },
+                  {
+                  "name": "Joli OS",
+                  "version": "-",
+                  "company": "Jolicloud"
+                  },
+                  {
+                  "name": "JunOS",
+                  "version": "-",
+                  "company": "Juniper Networks Inc."
+                  },
+                  {
+                  "name": "K42 OS",
+                  "version": "-",
+                  "company": "University of Toronto"
+                  },
+                  {
+                  "name": "Kali Linux",
+                  "version": "-",
+                  "company": "Offensive Security"
+                  },
+                  {
+                  "name": "Kanotix Linux",
+                  "version": "-",
+                  "company": "Jörg Schirottke (Aka. Kano)"
+                  },
+                  {
+                  "name": "KeyKOS",
+                  "version": "-",
+                  "company": "Key Logic"
+                  },
+                  {
+                  "name": "Knoppix",
+                  "version": "-",
+                  "company": "Klaus Knopper"
+                  },
+                  {
+                  "name": "KolibriOS",
+                  "version": "-",
+                  "company": "KolibriOS Project Team"
+                  },
+                  {
+                  "name": "Korora",
+                  "version": "-",
+                  "company": "The Korora Project"
+                  },
+                  {
+                  "name": "Kubuntu",
+                  "version": "-",
+                  "company": "Canonical Limited"
+                  },
+                  {
+                  "name": "Java for LEGO Mindstorms (leJOS)",
+                  "version": "-",
+                  "company": "leJOS Developers"
+                  },
+                  {
+                  "name": "Liberté Linux",
+                  "version": "-",
+                  "company": "DE(E)SU"
+                  },
+                  {
+                  "name": "Privatix Live System",
+                  "version": "-",
+                  "company": "Markus Mandalka"
+                  },
+                  {
+                  "name": "Odebian",
+                  "version": "-",
+                  "company": "Ligue Odebi"
+                  },
+                  {
+                  "name": "Tails",
+                  "version": "-",
+                  "company": "Tails Developers"
+                  },
+                  {
+                  "name": "LibreWRT",
+                  "version": "-",
+                  "company": "Free Software Foundation Inc."
+                  },
+                  {
+                  "name": "Linux Mint",
+                  "version": "-",
+                  "company": "Linux Mint Project"
+                  },
+                  {
+                  "name": "LinuxLite",
+                  "version": "-",
+                  "company": "Linux Lite Free Operating System"
+                  },
+                  {
+                  "name": "Lubuntu",
+                  "version": "-",
+                  "company": "The Lubuntu Project"
+                  },
+                  {
+                  "name": "LynxOS RTOS",
+                  "version": "-",
+                  "company": "LynuxWorks Inc."
+                  },
+                  {
+                  "name": "m0n0wall",
+                  "version": "-",
+                  "company": "Manuel Kasper"
+                  },
+                  {
+                  "name": "Mac OS X",
+                  "version": "-",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "Mac OS9",
+                  "version": "-",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "Macintosh System 7.1",
+                  "version": "-",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "Maemo",
+                  "version": "-",
+                  "company": "Hildon Foundation"
+                  },
+                  {
+                  "name": "Mageia",
+                  "version": "-",
+                  "company": "Mageia.Org"
+                  },
+                  {
+                  "name": "Mandriva Linux",
+                  "version": "-",
+                  "company": "Mandriva S.A."
+                  },
+                  {
+                  "name": "Manjaro Linux",
+                  "version": "-",
+                  "company": "Roland Singer, Guillaume Benoit, Philip Müller"
+                  },
+                  {
+                  "name": "MaRTE OS",
+                  "version": "-",
+                  "company": "University Of Cantabria"
+                  },
+                  {
+                  "name": "Matriux Leandros",
+                  "version": "-",
+                  "company": "Matriux Team"
+                  },
+                  {
+                  "name": "MeeGo",
+                  "version": "-",
+                  "company": "Nokia and The Linux Foundation"
+                  },
+                  {
+                  "name": "MenuetOS",
+                  "version": "-",
+                  "company": "Ville M. Turjanmaa"
+                  },
+                  {
+                  "name": "MEPIS",
+                  "version": "-",
+                  "company": "Warren Woodford and MEPIS LLC."
+                  },
+                  {
+                  "name": "Micrium µC/OS-II",
+                  "version": "-",
+                  "company": "Micrium Embedded Software"
+                  },
+                  {
+                  "name": "Micrium µC/OS-III",
+                  "version": "-",
+                  "company": "Micrium Embedded Software"
+                  },
+                  {
+                  "name": "Microsoft Invisible Computing (MMLite)",
+                  "version": "-",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "1.0",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "3.1",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "2000",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "7",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "8",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "8.1",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "95",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "98",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "98 SE (Second Edition)",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "CE",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "ME",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "Mobile",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "NT",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "RT",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "Server 2003",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "Server 2008 R2",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "Vista",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "XP",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Microsoft Windows",
+                  "version": "XP Professional",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "MidnightBSD",
+                  "version": "-",
+                  "company": "The MidnightBSD Project"
+                  },
+                  {
+                  "name": "Milos",
+                  "version": "-",
+                  "company": "The Milos Project"
+                  },
+                  {
+                  "name": "MirOS BSD",
+                  "version": "-",
+                  "company": "Thorsten 'mirabilos' Glaser, Benny 'benz' Siegert, Ádám 'replaced' Hóka, Michael Prokop and Lukas U. Smultron"
+                  },
+                  {
+                  "name": "Mobilinux",
+                  "version": "-",
+                  "company": "MontaVista Software"
+                  },
+                  {
+                  "name": "Moblin",
+                  "version": "-",
+                  "company": "The Linux Foundation and Intel Inc."
+                  },
+                  {
+                  "name": "MontaVista Linux",
+                  "version": "-",
+                  "company": "MontaVista Software"
+                  },
+                  {
+                  "name": "Moon OS",
+                  "version": "-",
+                  "company": "Chanrithy Thim"
+                  },
+                  {
+                  "name": "MorphOS",
+                  "version": "-",
+                  "company": "The MorphOS Development Team"
+                  },
+                  {
+                  "name": "MotoMagx",
+                  "version": "-",
+                  "company": "Motorola Inc."
+                  },
+                  {
+                  "name": "MQX RTOS",
+                  "version": "-",
+                  "company": "Precise Software Technologies Inc."
+                  },
+                  {
+                  "name": "MS-DOS",
+                  "version": "-",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Musix GNU/Linux",
+                  "version": "-",
+                  "company": "The Music Project"
+                  },
+                  {
+                  "name": "myGoya",
+                  "version": "-",
+                  "company": "Magix"
+                  },
+                  {
+                  "name": "Nano-RK",
+                  "version": "-",
+                  "company": "Carnegie Mellon University"
+                  },
+                  {
+                  "name": "NAS4Free",
+                  "version": "-",
+                  "company": "The NAS4Free Project"
+                  },
+                  {
+                  "name": "NCOS",
+                  "version": "-",
+                  "company": "Acorn Computers and Pace"
+                  },
+                  {
+                  "name": "NetApp Data ONTAP",
+                  "version": "-",
+                  "company": "NetApp Inc."
+                  },
+                  {
+                  "name": "NetBSD",
+                  "version": "-",
+                  "company": "The NetBSD Foundation"
+                  },
+                  {
+                  "name": "Netrunner",
+                  "version": "-",
+                  "company": "Blue Systems"
+                  },
+                  {
+                  "name": "QNX Neutrino RTOS",
+                  "version": "-",
+                  "company": "QNX Software Systems Limited and BlackBerry"
+                  },
+                  {
+                  "name": "Nexenta OS",
+                  "version": "-",
+                  "company": "Nexenta Systems and HackZone members"
+                  },
+                  {
+                  "name": "Nokia IPSO",
+                  "version": "-",
+                  "company": "Nokia Inc."
+                  },
+                  {
+                  "name": "NonStop OS",
+                  "version": "-",
+                  "company": "Hewlett-Packard Inc."
+                  },
+                  {
+                  "name": "Nucleus OS",
+                  "version": "-",
+                  "company": "Mentor Graphics Inc."
+                  },
+                  {
+                  "name": "NuttX",
+                  "version": "-",
+                  "company": "Gregory Nutt"
+                  },
+                  {
+                  "name": "OantiX",
+                  "version": "-",
+                  "company": "-"
+                  },
+                  {
+                  "name": "On Time RTOS-32",
+                  "version": "-",
+                  "company": "On Time Real-Time and System Software"
+                  },
+                  {
+                  "name": "OneFS",
+                  "version": "-",
+                  "company": "Isilon Systems"
+                  },
+                  {
+                  "name": "OOS",
+                  "version": "-",
+                  "company": "Internetprivatstiftung Austria (IPA)"
+                  },
+                  {
+                  "name": "Novell Open Enterprise Server",
+                  "version": "-",
+                  "company": "Novell Inc."
+                  },
+                  {
+                  "name": "Open WebOS",
+                  "version": "-",
+                  "company": "LG"
+                  },
+                  {
+                  "name": "Open Xange",
+                  "version": "-",
+                  "company": "Open Xange Community"
+                  },
+                  {
+                  "name": "OpenBSD",
+                  "version": "-",
+                  "company": "The OpenBSD Project"
+                  },
+                  {
+                  "name": "Openmoko Linux",
+                  "version": "-",
+                  "company": "The Openmoko Team"
+                  },
+                  {
+                  "name": "OPENRTOS",
+                  "version": "-",
+                  "company": "WITTENSTEIN Aerospace & Simulation"
+                  },
+                  {
+                  "name": "OpenSolaris",
+                  "version": "-",
+                  "company": "Sun Microsystems Inc."
+                  },
+                  {
+                  "name": "Solaris Express",
+                  "version": "-",
+                  "company": "Oracle Corporation"
+                  },
+                  {
+                  "name": "openSUSE",
+                  "version": "-",
+                  "company": "openSUSE Project"
+                  },
+                  {
+                  "name": "Openwall Project",
+                  "version": "-",
+                  "company": "Openwall Project Team"
+                  },
+                  {
+                  "name": "OPhone",
+                  "version": "-",
+                  "company": "OPhone Software Developers Network"
+                  },
+                  {
+                  "name": "Oracle Linux",
+                  "version": "-",
+                  "company": "Oracle Corporation"
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.0 (Cheetah)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.1 (Puma)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.2 (Jaguar)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.3 (Panther)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.4 (Tiger)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.5 (Leopard)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.6 (Snow Leopard)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.7 (Lion)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.8 (Mountain Lion)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS X",
+                  "version": "10.9 (Mavericks)",
+                  "company": "Apple Inc."
+                  },
+                  {
+                  "name": "OS-9",
+                  "version": "-",
+                  "company": "Microware Systems Corporation"
+                  },
+                  {
+                  "name": "OS/2",
+                  "version": "-",
+                  "company": "IBM & Microsoft Inc."
+                  },
+                  {
+                  "name": "OS21",
+                  "version": "-",
+                  "company": "STMicroelectronics"
+                  },
+                  {
+                  "name": "OS4",
+                  "version": "-",
+                  "company": "OS4 Project Team"
+                  },
+                  {
+                  "name": "OSA RTOS",
+                  "version": "-",
+                  "company": "Pic24"
+                  },
+                  {
+                  "name": "OSE",
+                  "version": "-",
+                  "company": "Engmans Elektronik Aktiebolag (ENEA AB)"
+                  },
+                  {
+                  "name": "Offene Systeme und deren Schnittstellen für die Elektronik in Kraftfahrzeugen (OSEK)",
+                  "version": "-",
+                  "company": "OSEK Consortium"
+                  },
+                  {
+                  "name": "Parakey",
+                  "version": "-",
+                  "company": "Blake Ross and Joe Hewitt"
+                  },
+                  {
+                  "name": "Parsix Linux",
+                  "version": "-",
+                  "company": "Alan Baghumian"
+                  },
+                  {
+                  "name": "PC-BSD",
+                  "version": "-",
+                  "company": "PC-BSD Software"
+                  },
+                  {
+                  "name": "PCLinuxOS",
+                  "version": "-",
+                  "company": "Bill Reynolds ('Texstar')"
+                  },
+                  {
+                  "name": "Pear Linux",
+                  "version": "-",
+                  "company": "David Tavares"
+                  },
+                  {
+                  "name": "PEN/GEOS",
+                  "version": "-",
+                  "company": "Breadbox Computer Company"
+                  },
+                  {
+                  "name": "PenPointOS",
+                  "version": "-",
+                  "company": "GO Corporation"
+                  },
+                  {
+                  "name": "Peppermint Linux OS",
+                  "version": "-",
+                  "company": "Peppermint LLC."
+                  },
+                  {
+                  "name": "pfSense",
+                  "version": "-",
+                  "company": "Electric Sheep Fencing LLC."
+                  },
+                  {
+                  "name": "Phoenix-RTOS",
+                  "version": "-",
+                  "company": "Paweł Pisarczyk"
+                  },
+                  {
+                  "name": "PikeOS",
+                  "version": "-",
+                  "company": "SYSGO AG"
+                  },
+                  {
+                  "name": "Pinguy OS",
+                  "version": "-",
+                  "company": "Antoni Norman"
+                  },
+                  {
+                  "name": "Plan 9",
+                  "version": "-",
+                  "company": "Bell Laboratories"
+                  },
+                  {
+                  "name": "Pocket PC",
+                  "version": "-",
+                  "company": "Microsoft Inc."
+                  },
+                  {
+                  "name": "Point LinuxDS",
+                  "version": "-",
+                  "company": "Point Linux"
+                  },
+                  {
+                  "name": "POK",
+                  "version": "-",
+                  "company": "Julien Delange and The POK Team"
+                  },
+                  {
+                  "name": "Porteus",
+                  "version": "-",
+                  "company": "Porteus Team"
+                  },
+                  {
+                  "name": "Portos",
+                  "version": "-",
+                  "company": "Cornell University - Computing and Information Science Department"
+                  },
+                  {
+                  "name": "Prex",
+                  "version": "-",
+                  "company": "Prex Community"
+                  },
+                  {
+                  "name": "Project Looking Glass",
+                  "version": "-",
+                  "company": "LG3D developers"
+                  },
+                  {
+                  "name": "Protothreads",
+                  "version": "-",
+                  "company": "Adam Dunkels"
+                  },
+                  {
+                  "name": "Psych Desktop",
+                  "version": "-",
+                  "company": "The Dojo Foundation"
+                  },
+                  {
+                  "name": "PTVOS",
+                  "version": "-",
+                  "company": "PowerTV"
+                  },
+                  {
+                  "name": "Puppy Linux",
+                  "version": "-",
+                  "company": "Barry Kauler (original), Larry Short, Mick Amadio and Puppy Community"
+                  },
+                  {
+                  "name": "Purefect Desktop",
+                  "version": "-",
+                  "company": "Klorofil Team"
+                  },
+                  {
+                  "name": "PureOS",
+                  "version": "-",
+                  "company": "PureOS Team"
+                  },
+                  {
+                  "name": "PVOS",
+                  "version": "-",
+                  "company": "CASIO"
+                  },
+                  {
+                  "name": "Q-Kernel",
+                  "version": "-",
+                  "company": "QuasarSoft Ltd."
+                  },
+                  {
+                  "name": "QNX",
+                  "version": "-",
+                  "company": "QNX Software Systems Limited and BlackBerry Ltd."
+                  },
+                  {
+                  "name": "QP",
+                  "version": "-",
+                  "company": "Quantum Leaps"
+                  },
+                  {
+                  "name": "Qt Extended",
+                  "version": "-",
+                  "company": "Qt Software"
+                  },
+                  {
+                  "name": "Qubes OS",
+                  "version": "-",
+                  "company": "Invisible Things Lab"
+                  },
+                  {
+                  "name": "Pidora",
+                  "version": "-",
+                  "company": "Seneca College - Center for Development of Open Technology"
+                  },
+                  {
+                  "name": "ReactOS",
+                  "version": "-",
+                  "company": "ReactOS Foundation"
+                  },
+                  {
+                  "name": "ReaGOS",
+                  "version": "-",
+                  "company": "OBP Research Oy"
+                  },
+                  {
+                  "name": "REAL/32",
+                  "version": "-",
+                  "company": "Matthias Paul"
+                  },
+                  {
+                  "name": "Red Hat Enterprise Linux",
+                  "version": "-",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Red Hat Linux",
+                  "version": "-",
+                  "company": "Red Hat Inc."
+                  },
+                  {
+                  "name": "Replicant OS",
+                  "version": "-",
+                  "company": "Denis ‘GNUtoo’ Carikli and Paul Kocialkowski"
+                  },
+                  {
+                  "name": "REX OS",
+                  "version": "-",
+                  "company": "Qualcomm Incorporated"
+                  },
+                  {
+                  "name": "RIOT",
+                  "version": "-",
+                  "company": "Freie Universität Berlin, by INRIA, and by Hamburg University of Applied Sciences"
+                  },
+                  {
+                  "name": "RMX",
+                  "version": "-",
+                  "company": "Intel Inc. and TenAsys Corporation"
+                  },
+                  {
+                  "name": "RockBox",
+                  "version": "-",
+                  "company": "The Rockbox Project"
+                  },
+                  {
+                  "name": "ROM-DOS",
+                  "version": "-",
+                  "company": "Datalight"
+                  },
+                  {
+                  "name": "Rosa",
+                  "version": "-",
+                  "company": "ROSA Company"
+                  },
+                  {
+                  "name": "RouterOS",
+                  "version": "-",
+                  "company": "MikroTik"
+                  },
+                  {
+                  "name": "rt-kernel",
+                  "version": "-",
+                  "company": "On Time Real-Time and System Software"
+                  },
+                  {
+                  "name": "RT-Thread",
+                  "version": "-",
+                  "company": "Bernard Xiong & RT-Thread Team"
+                  },
+                  {
+                  "name": "RTAI",
+                  "version": "-",
+                  "company": "RTAI Community"
+                  },
+                  {
+                  "name": "Real-Time Executive for Multiprocessor Systems (RTEMS)",
+                  "version": "-",
+                  "company": "OAR Corporation"
+                  },
+                  {
+                  "name": "RTOS",
+                  "version": "-",
+                  "company": "Express Logic Inc."
+                  },
+                  {
+                  "name": "RTXC Quadros",
+                  "version": "-",
+                  "company": "Quadros Systems Inc."
+                  },
+                  {
+                  "name": "S.Ha.R.K.",
+                  "version": "-",
+                  "company": "Malardalens University"
+                  },
+                  {
+                  "name": "Sabayon Linux",
+                  "version": "-",
+                  "company": "Fabio Erculiani and Team"
+                  },
+                  {
+                  "name": "SafeRTOS",
+                  "version": "-",
+                  "company": "Real Time Engineers Limited"
+                  },
+                  {
+                  "name": "Sailfish OS",
+                  "version": "-",
+                  "company": "Jolla Ltd."
+                  },
+                  {
+                  "name": "Salix OS",
+                  "version": "-",
+                  "company": "Cyrille Pontvieux, George Vlahavas, Pierrick Le Brun, Thorsten Mühlfelder"
+                  },
+                  {
+                  "name": "Salvo",
+                  "version": "-",
+                  "company": "Pumpkin Inc."
+                  },
+                  {
+                  "name": "Scientific Linux",
+                  "version": "-",
+                  "company": "Fermi National Accelerator Laboratory and European Organization for Nuclear Research (CERN)"
+                  },
+                  {
+                  "name": "SCIOPTA",
+                  "version": "-",
+                  "company": "SCIOPTA Systems AG"
+                  },
+                  {
+                  "name": "scmRTOS",
+                  "version": "-",
+                  "company": "scmRTOS Team"
+                  },
+                  {
+                  "name": "SCO OpenServer",
+                  "version": "-",
+                  "company": "The SCO Group"
+                  },
+                  {
+                  "name": "ScreenOS",
+                  "version": "-",
+                  "company": "Juniper Networks Inc."
+                  },
+                  {
+                  "name": "Small Devices Portable Operating System (SDPOS)",
+                  "version": "-",
+                  "company": "SDPOS Team, J. Arzi and V. Besse"
+                  },
+                  {
+                  "name": "seL4",
+                  "version": "-",
+                  "company": "Jochen Liedtke"
+                  },
+                  {
+                  "name": "Security-Enhanced Linux (SELinux)",
+                  "version": "-",
+                  "company": "National Security Agency (NSA)"
+                  },
+                  {
+                  "name": "SHR",
+                  "version": "-",
+                  "company": "SHR community"
+                  },
+                  {
+                  "name": "silRTOS",
+                  "version": "-",
+                  "company": "Unknown"
+                  },
+                  {
+                  "name": "SimpleAVROS",
+                  "version": "-",
+                  "company": "Den0x40"
+                  },
+                  {
+                  "name": "Sintran III",
+                  "version": "-",
+                  "company": "Norsk Data"
+                  },
+                  {
+                  "name": "Sirius RTOS",
+                  "version": "-",
+                  "company": "SpaceShadow"
+                  },
+                  {
+                  "name": "SkyOS",
+                  "version": "-",
+                  "company": "Robert Szeleney"
+                  },
+                  {
+                  "name": "Slackel",
+                  "version": "-",
+                  "company": "Dimitris Tzemos"
+                  },
+                  {
+                  "name": "Slackware",
+                  "version": "-",
+                  "company": "Patrick Volkerding"
+                  },
+                  {
+                  "name": "Slax",
+                  "version": "-",
+                  "company": "Tomáš Matějíček"
+                  },
+                  {
+                  "name": "Slitaz",
+                  "version": "-",
+                  "company": "Allied Data Sys, DuckDuckGo Inc., The Clarkson Open Source Institute and The Webconverger Project"
+                  },
+                  {
+                  "name": "SMX RTOS",
+                  "version": "-",
+                  "company": "Micro Digital Inc."
+                  },
+                  {
+                  "name": "SnowLinux",
+                  "version": "-",
+                  "company": "The Snowlinux Team"
+                  },
+                  {
+                  "name": "Solaris",
+                  "version": "9",
+                  "company": "Oracle Corporation"
+                  },
+                  {
+                  "name": "Solaris",
+                  "version": "10",
+                  "company": "Oracle Corporation"
+                  },
+                  {
+                  "name": "SolusOS",
+                  "version": "-",
+                  "company": "Ikey Doherty"
+                  },
+                  {
+                  "name": "SOOS Project",
+                  "version": "-",
+                  "company": "High Performance Computing Centre (HLRS), University of Stuttgart - Germany, Ecole Polytechnique Fédérale de Lausanne - Switzerland, Europäisches Microsoft Innovations Center GmbH - Germany, Instituto de Telecomunicacoes-Pólo Aveiro - Portugal, Scuola Superiore di Studi Universitari e di Perfezionamento Sant'Anna - Italy and Computer Architecture for Embedded Systems (CAES), Universiteit Twente - the Netherlands"
+                  },
+                  {
+                  "name": "Sparky Linux",
+                  "version": "-",
+                  "company": "pavroo, MoroS, Albedo 0.64, urbek and MiroZarta"
+                  },
+                  {
+                  "name": "StartForce",
+                  "version": "-",
+                  "company": "Jin Koh"
+                  },
+                  {
+                  "name": "SunOS",
+                  "version": "-",
+                  "company": "Oracle Corporation"
+                  },
+                  {
+                  "name": "SUSE",
+                  "version": "-",
+                  "company": "The Attachmate Group"
+                  },
+                  {
+                  "name": "SUSE Linux Enterprise Server",
+                  "version": "-",
+                  "company": "The Attachmate Group"
+                  },
+                  {
+                  "name": "Syllable Desktop",
+                  "version": "-",
+                  "company": "Kristian Van Der Vliet, Kaj de Vos, Rick Caudill, Arno Klenke, Henrik Isaksson"
+                  },
+                  {
+                  "name": "Symbian OS",
+                  "version": "-",
+                  "company": "Accenture plc"
+                  },
+                  {
+                  "name": "SYS/BIOS",
+                  "version": "-",
+                  "company": "Texas Instruments Inc."
+                  },
+                  {
+                  "name": "T-Kernel",
+                  "version": "-",
+                  "company": "T-Engine Forum"
+                  },
+                  {
+                  "name": "The Amnesic Incognito Live System (Tails)",
+                  "version": "-",
+                  "company": "The Tails Team"
+                  },
+                  {
+                  "name": "Talon DSP RTOS",
+                  "version": "-",
+                  "company": "BlackHawk"
+                  },
+                  {
+                  "name": "THEOS",
+                  "version": "-",
+                  "company": "THEOS Software Corporation"
+                  },
+                  {
+                  "name": "ThreadX",
+                  "version": "-",
+                  "company": "Express Logic Inc."
+                  },
+                  {
+                  "name": "TiMOS",
+                  "version": "-",
+                  "company": "Alcatel-Lucent"
+                  },
+                  {
+                  "name": "Tin Hat Linux",
+                  "version": "-",
+                  "company": "Anthony G. Basile et alumni"
+                  },
+                  {
+                  "name": "Tiny Core Linux",
+                  "version": "-",
+                  "company": "Robert Shingledecker"
+                  },
+                  {
+                  "name": "TinyOS",
+                  "version": "-",
+                  "company": "TinyOS Alliance"
+                  },
+                  {
+                  "name": "Tizen OS",
+                  "version": "-",
+                  "company": "Linux Foundation, Tizen Association, Samsung Inc. and Intel Inc."
+                  },
+                  {
+                  "name": "Transaction Management eXecutive (TMX)",
+                  "version": "-",
+                  "company": "NCR Corporation"
+                  },
+                  {
+                  "name": "TNKernel",
+                  "version": "-",
+                  "company": "Yuri Tiomkin"
+                  },
+                  {
+                  "name": "TOMOYO Linux",
+                  "version": "-",
+                  "company": "NTT DATA Corporation"
+                  },
+                  {
+                  "name": "Trampoline Operating System",
+                  "version": "-",
+                  "company": " Real-Time Systems group of IRCCyN, Jean-Luc Béchennec, Mikaël Briday, Sébastien Faucou and Yvon Trinquet, Jean-François Deverge from IRISA, Trame group from ESEO (Jonathan Ilias and Jérôme Delatour) and See4sys"
+                  },
+                  {
+                  "name": "Transaction Processing Facility (TPF)",
+                  "version": "-",
+                  "company": "International Business Machines Corporation (IBM)"
+                  },
+                  {
+                  "name": "TRON Project",
+                  "version": "-",
+                  "company": "T-Engine Forum"
+                  },
+                  {
+                  "name": "Tru64 Unix",
+                  "version": "-",
+                  "company": "DEC, Hewlett-Packard Inc., International Business Machines Corporation (IBM), Compaq"
+                  },
+                  {
+                  "name": "TrustedBSD",
+                  "version": "-",
+                  "company": "Defence Advanced Research Projects Agency (DARPA), the National Security Agency (NSA), Network Associates Laboratories, Safeport Network Services, the University of Pennsylvania, Yahoo!, McAfee Research, SPARTA, Inc., Apple Computer, Inc., nCirce Network Security, Inc., Google, Inc., the University of Cambridge Computer Laboratory and the FreeBSD Foundation"
+                  },
+                  {
+                  "name": "TSX-32",
+                  "version": "-",
+                  "company": "S&H Computer Systems Inc."
+                  },
+                  {
+                  "name": "TUD:OS",
+                  "version": "-",
+                  "company": "TU Dresden, Fakultät Informatik"
+                  },
+                  {
+                  "name": "µ-velOSity",
+                  "version": "-",
+                  "company": "Green Hills Software Inc."
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "9.04 Jaunty Jackalope",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "9.10 Karmic Koala",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "10.04 LTS Lucid Lynx",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "10.10 Maverick Meerkat",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "11.04 Natty Narwhal",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "11.10 Oneiric Ocelot",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "12.04 LTS Precise Pangolin",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "12.10 Quantal Quetzal",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "13.04 Raring Ringtail",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu",
+                  "version": "13.10 Saucy Salamander",
+                  "company": "Canonical Ltd. and The Ubuntu community"
+                  },
+                  {
+                  "name": "Ubuntu Gnome",
+                  "version": "-",
+                  "company": "Ubuntu GNOME Team"
+                  },
+                  {
+                  "name": "Ubuntu Mobile",
+                  "version": "-",
+                  "company": "Canonical Ltd."
+                  },
+                  {
+                  "name": "uClinux",
+                  "version": "-",
+                  "company": "Arcturus Networks Inc."
+                  },
+                  {
+                  "name": "Ultimate Edition (Ubuntu based)",
+                  "version": "-",
+                  "company": "TheeMahn"
+                  },
+                  {
+                  "name": "Ultrix",
+                  "version": "-",
+                  "company": "Digital Equipment Corporation (DEC)"
+                  },
+                  {
+                  "name": "Unison RTOS",
+                  "version": "-",
+                  "company": "RoweBots"
+                  },
+                  {
+                  "name": "Unity Linux",
+                  "version": "-",
+                  "company": "The Unity Linux Team"
+                  },
+                  {
+                  "name": "Unix",
+                  "version": "-",
+                  "company": "Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, and Joe Ossanna at Bell Laboratories"
+                  },
+                  {
+                  "name": "UNIX System V",
+                  "version": "-",
+                  "company": "AT&T Corporation"
+                  },
+                  {
+                  "name": "UnixWare",
+                  "version": "-",
+                  "company": "Univel, Novell, SCO, Caldera Systems, SCO Group"
+                  },
+                  {
+                  "name": "uOS",
+                  "version": "-",
+                  "company": "Serge Vakulenko"
+                  },
+                  {
+                  "name": "Vector Linux",
+                  "version": "-",
+                  "company": "Robert S. Lange and Darrell Stavem"
+                  },
+                  {
+                  "name": "velOSity",
+                  "version": "-",
+                  "company": "Green Hills Software Inc."
+                  },
+                  {
+                  "name": "Verdict",
+                  "version": "-",
+                  "company": "Snap-on Incorporated."
+                  },
+                  {
+                  "name": "Virtual-OS",
+                  "version": "-",
+                  "company": "Juri Hahn"
+                  },
+                  {
+                  "name": "Visopsys",
+                  "version": "-",
+                  "company": "J. Andrew McLaughlin"
+                  },
+                  {
+                  "name": "Versatile Routing Platform (VRP)",
+                  "version": "-",
+                  "company": "Huawei Technologies Co. Ltd."
+                  },
+                  {
+                  "name": "VxWorks",
+                  "version": "-",
+                  "company": "Wind River Systems Inc."
+                  },
+                  {
+                  "name": "wattOS Linux",
+                  "version": "-",
+                  "company": "The Core wattOS Team"
+                  },
+                  {
+                  "name": "WebDesk",
+                  "version": "-",
+                  "company": "Yenra Corporation"
+                  },
+                  {
+                  "name": "Whonix (Anonymous Operating System)",
+                  "version": "-",
+                  "company": "Whonix developers"
+                  },
+                  {
+                  "name": "Wombat OS",
+                  "version": "-",
+                  "company": "National ICT Australia"
+                  },
+                  {
+                  "name": "Xandros Linux",
+                  "version": "-",
+                  "company": "Xandros Incorporated"
+                  },
+                  {
+                  "name": "Xenomai",
+                  "version": "-",
+                  "company": "Xenomai"
+                  },
+                  {
+                  "name": "Xindesk",
+                  "version": "-",
+                  "company": "The Xin Company"
+                  },
+                  {
+                  "name": "XRTOS",
+                  "version": "-",
+                  "company": "eSysTech Embedded Systems Technologies"
+                  },
+                  {
+                  "name": "TI-RTOS: Real-Time Operating System (RTOS)",
+                  "version": "-",
+                  "company": "Texas Instruments Inc."
+                  },
+                  {
+                  "name": "Xubuntu",
+                  "version": "-",
+                  "company": "Xubuntu Canonical Ltd."
+                  },
+                  {
+                  "name": "xv6",
+                  "version": "-",
+                  "company": "MIT 6.828: Operating System Engineering"
+                  },
+                  {
+                  "name": "StartOS (Ylmf OS)",
+                  "version": "-",
+                  "company": "YLMF Computer Technology Co. Ltd."
+                  },
+                  {
+                  "name": "YouOS",
+                  "version": "-",
+                  "company": "WebShaka Inc."
+                  },
+                  {
+                  "name": "Zentyal",
+                  "version": "-",
+                  "company": "Zentyal S.L."
+                  },
+                  {
+                  "name": "Zenwalk",
+                  "version": "-",
+                  "company": "Jean-Philippe Guillemin"
+                  },
+                  {
+                  "name": "ZevenOS",
+                  "version": "-",
+                  "company": "ZevenOS"
+                  },
+                  {
+                  "name": "ZimdeskOS",
+                  "version": "-",
+                  "company": "Zimdesk Limited"
+                  },
+                  {
+                  "name": "Zero Kelvin Desktop (ZKDesktop)",
+                  "version": "-",
+                  "company": "GerberDierbergs, Scott Duensing, Traci, Sean Reynolds"
+                  },
+                  {
+                  "name": "Zorin OS",
+                  "version": "-",
+                  "company": "Zorin OS"
+                  },
+                  {
+                  "name": "ZyXEL and Network Operating System (ZyNOS)",
+                  "version": "-",
+                  "company": "ZyXEL Communications Corp."
+                  },
+                  {
+                  "name": "µITRON",
+                  "version": "-",
+                  "company": "T-Engine Forum"
+                  },
+                  {
+                  "name": "µTasker",
+                  "version": "-",
+                  "company": "M.J.Butcher Consulting"
+                  },
+                  {
+                  "name": "Ångström distribution",
+                  "version": "-",
+                  "company": "Developers from the OpenZaurus, OpenEmbedded, and OpenSIMpad projects"
+                  }]
+}
